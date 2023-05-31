@@ -26,7 +26,7 @@ Welcome to the "Learn HTML in One Video" repository, I will try my best to teach
 
 
 ## 🧑‍💻 Contributors
-- [@md zaman](https://github.com/shovoalways/)
+- [@md zaman](https://github.com/mdzaman23)
 
 
 
